@@ -1,5 +1,11 @@
-as yet unclassified
-run
+Class {
+	#name : #ExampleBasicWindow,
+	#superclass : #Object,
+	#category : #Raylib
+}
+
+{ #category : #'as yet unclassified' }
+ExampleBasicWindow >> run [
 	| lightGray white rl |
 	lightGray := RaylibColor new r: 200; g: 200; b: 200; a: 255.
 	white := RaylibColor new r: 255; g: 255; b: 255; a: 255.
@@ -15,3 +21,4 @@ run
 	rl closeWindow 
 	
 	
+]
