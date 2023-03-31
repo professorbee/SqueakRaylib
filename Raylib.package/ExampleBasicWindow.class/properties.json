@@ -1,0 +1,14 @@
+{
+	"category" : "Raylib",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ExampleBasicWindow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
